@@ -1,1 +1,2 @@
-# This is first job application form created using HTML and CSS
+# Job-Application-Form
+This is first application form created using HTML and CSS
